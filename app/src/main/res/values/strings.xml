@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">movieDatabase</string>
+    <string name="app_name">My Movies Collection</string>
+    <string name="pt_username">Username</string>
+    <string name="pt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_register">Register Here</string>
+    <string name="img_myMoviePic" />
+    <string name="tv_createNewAccount">Create your new account:</string>
+    <string name="tv_enterUsername">Enter a username:</string>
+    <string name="tv_enterPassword">Enter a password:</string>
+    <string name="btn_createAccount">Create Account</string>
+    <string name="tv_genre">Genre:</string>
+    <string name="tv_displayGenre" />
+    <string name="tv_actors">Main Actors:</string>
+    <string name="tv_released">Released:</string>
+    <string name="tv_directors">Directors:</string>
+    <string name="tv_producers">Producers:</string>
+    <string name="popup_deletetask">Delete</string>
+    <string name="popup_edittask">Edit</string>
+    <string name="popup_savetask">Save</string>
+    <string name="pt_new_username"> </string>
+    <string name="pt_new_password" />
+    <string name="img_default" />
 </resources>
